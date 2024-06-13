@@ -6,7 +6,7 @@ Data Source
 https://www.kaggle.com/code/tawfikelmetwally/census-income-analysis-and-modeling/input
 
 Streamlit
-https://app-ml-mahkargipcgpgu6gfdppzr.streamlit.app/
+[Cencus Income](https://cencus-income-flaqkebd38mgeuesttzmyd.streamlit.app/)
 
 App Content
 - Machine Learning Section
